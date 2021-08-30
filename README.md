@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **spring**
 
-- 💬 Ask me about **I am a student ...!**
+- 💬 Ask me about **Your Dought ...!**
 
 - 📫 How to reach me **sonu7280981480@gmail.com**
 
