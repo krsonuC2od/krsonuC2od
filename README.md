@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm sanu❤</h1>
 <h3 align="center">A passionate frontend and backend its full stake developer from India</h3>
 
-- 🌱 I’m currently learning **spring**
+- 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **Your Dought ...!**
 
